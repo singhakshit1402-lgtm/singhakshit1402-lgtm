@@ -82,9 +82,9 @@ Hey there! I'm **Akshit Singh**, a student currently pursuing **B.Tech(CSE)** at
 
 | Project | Description | Built With | Links |
 | :--- | :--- | :--- | :--- |
-| **🌟 Project One** | Short description of what problem this project solves or what you learned building it. | `React` `Node.js` `Tailwind` | [Repo](https://github.com/singhakshit1402-lgtm/Aki-World) • |
-| **⚡ Project Two** | Short description of a second project, hackathon entry, or coursework highlight. | `Python` `Flask` `SQLite` | [Repo](https://github.com/singhakshit1402-lgtm/atlas-game) • |
-| **🧪 Project Three** | Short description of a fun experiment, CLI tool, or mini-app you built while learning. | `TypeScript` `HTML/CSS` | [Repo](https://github.com/singhakshit1402-lgtm/PATIENT_RECOVERY_ANALYSIS) |
+| **🌟 Aki World** | --- It's a Campus Ai Oracle Help student along side in College !!!--- | `React` `Node.js` `Tailwind` | [Repo](https://github.com/singhakshit1402-lgtm/Aki-World) • |
+| **⚡ Atlas Game** | A Nostalgic game we play in school days country, state, etc. Names battle so, that thing as an online game !!! | `Python` `Flask` `SQLite` | [Repo](https://github.com/singhakshit1402-lgtm/atlas-game) • |
+| **🧪 Patient Recovery Analysis on Given Data** | How hospitals analyzes Customer recovery and record !!! | `TypeScript` `HTML/CSS` | [Repo](https://github.com/singhakshit1402-lgtm/PATIENT_RECOVERY_ANALYSIS) |
 
 <div align="center">
   <a href="https://github.com/singhakshit1402-lgtm/Aki-World">
